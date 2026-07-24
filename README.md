@@ -5,7 +5,7 @@
 [Author](#Author)
 
 # Overview 
-A design of a simple calculator, using HTML, CSS and JS
+A simple design of a calculator, using HTML, CSS and JS
 
 # Screenshot
 <img src="preview.jpeg" width="" height="auto">
